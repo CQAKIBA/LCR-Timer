@@ -44,6 +44,8 @@ CC BY-SA
 |OFF|ON |ON |ON|10分 ±30秒|
 |ON |ON |ON |ON|15分 ±30秒|
 
+![image](https://user-images.githubusercontent.com/10165993/138369955-022a5684-0e25-4cf7-ab3d-da6e52c73ab4.png)
+
 # ハードウェア
 ## lcr-timer_0_1.mb3
 - CPUの内部発振器で動作させているため、時間精度は非常に低いです。
