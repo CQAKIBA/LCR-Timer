@@ -50,7 +50,7 @@ CC BY-SA
 ## lcr-timer_0_1.mb3
 - CPUの内部発振器で動作させているため、時間精度は非常に低いです。
 
-![image](https://github.com/CQAKIBA/LCR-Timer/blob/main/drc-decoy_0_1.png)
+![image](https://github.com/CQAKIBA/LCR-Timer/blob/main/lcr-timer_0_1.png)
 
 ### 部品表
 
